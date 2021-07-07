@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".github/assets/images/logo-rprado.png" alt="Logo Repo" width="150">
+    <img src="https://github.com/rpradodesign/default-readme/blob/main/.github/assets/images/logo-rprado.png" alt="Logo Repo" width="150">
     <h2>
         My readme
     </h2>
@@ -19,7 +19,7 @@
 
 </div>
 
-<img src=".github/assets/images/preview.gif" alt="Preview" width="100%">
+<img src="https://github.com/rpradodesign/default-readme/blob/main/.github/assets/images/preview.gif" alt="Preview" width="100%">
 
 ## Sobre o projeto
 
