@@ -1,3 +1,5 @@
+<br><br>
+
 <div align="center">
     <img src="https://github.com/rpradodesign/default-readme/blob/main/.github/assets/images/logo-rprado.png" alt="Logo Repo" width="150">
     <h2>
