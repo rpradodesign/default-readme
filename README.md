@@ -66,4 +66,4 @@ Facilitar o desenvolvimento de um readme, de maneira visual e que tenha todos os
 
 ---
 
-### Desenvolvido por [<img alt="Logo RPrado" src=".github/assets/images/logo-rprado.png" width="91px" />](http://rprado.design)
+### Desenvolvido por [<img alt="Logo RPrado" src="https://github.com/rpradodesign/default-readme/blob/main/.github/assets/images/logo-rprado.png" width="91px" />](http://rprado.design)
