@@ -3,66 +3,46 @@
 <div align="center">
     <img src="https://github.com/rpradodesign/default-readme/blob/main/.github/assets/images/logo-rprado.png" alt="Logo Repo" width="150">
     <h2>
-        My readme
+        Nome do projeto
     </h2>
-    Readme padrão para os meus repositórios
+    Resumo rápido sobre o que é o projeto
 </div>
 <br>
 <div align="center">
 
 [![](https://img.shields.io/badge/-Sobre-5276F2)](#sobre-o-projeto)
-[![](https://img.shields.io/badge/-Features-5276F2)](#features)
-[![](https://img.shields.io/badge/-Começando-5276F2)](#começando)
-[![](https://img.shields.io/badge/-Contribuir-5276F2)](#como-contribuir)
-<br>
-[![](https://img.shields.io/badge/-Contribuidores-000066)](#contribuidores)
-[![](https://img.shields.io/badge/-Licença-000066)](#licença)
-[![](https://img.shields.io/badge/-Autores-000066)](#desenvolvido-por-)
+[![](https://img.shields.io/badge/-Requisitos-5276F2)](#requisitos)
+[![](https://img.shields.io/badge/-Desenvolvido-000066)](/src)
 
 </div>
-<br>
-<img src="https://github.com/rpradodesign/default-readme/blob/main/.github/assets/images/preview.gif" alt="Preview" width="100%">
 <br>
 
 ## Sobre o projeto
 
-Facilitar o desenvolvimento de um readme, de maneira visual e que tenha todos os conteúdos necessários.
+Colocar aqui o escopo do projeto inteiro.
 
-## Features
+- [Orçamento do projeto](#)
+- [Arquivos do projeto](#)
+- Solicitante: [Fulando](mailto:email@empresa.com)
 
-- [x] Hierarquia visual
-- [x] Sintaxe markdown
-- [x] Organização da documentação
-- [x] Utilização das shields
-- [ ] Contribuidores automáticos
+### **Requisitos**
 
-## Começando
+Para este projetos utilizaremos:
 
-### **Prerequisitos**
+- HTML, CSS e JS puro
+- Lib da plataforma Veeva
+- Lib [Greensock](https://greensock.com/) para animações
 
-- Ter o git instalado
-- Instalar a extensão `Markdown All In One` na sua IDE
+### **Progresso**
 
-### **Instalação**
+- [x] Etapa 1
 
-1. Clonar o repositório - `git clone`
-2. Abrir o readme
-3. Visualizar pela extensão
+## Autor
 
-## Como contribuir
-
-- Abrir uma [issue](https://github.com/rpradosilva/my-readme/issues)
-- Depois da issue aceita, mandar uma PR
-
-## Contribuidores
-
-|      [Rafael Prado](http://www.github.com/rpradosilva)       |
-| :----------------------------------------------------------: |
-| ![](https://avatars2.githubusercontent.com/u/22681977?s=100) |
-
-## Licença
-
-[Licença MIT](LICENSE)
+|                                                             |                                                                                                                                                |
+| :---------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![](https://avatars2.githubusercontent.com/u/22681977?s=80) | [Rafael Prado](https://www.linkedin.com/in/rpradosilva/)</br>[![](https://img.shields.io/badge/-Contato-5276F2)](mailto:contato@rprado.design) |
+|                                                             |
 
 ---
 
