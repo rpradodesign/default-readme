@@ -37,13 +37,6 @@ Para este projetos utilizaremos:
 
 - [x] Etapa 1
 
-## Autor
-
-|                                                             |                                                                                                                                                |
-| :---------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![](https://avatars2.githubusercontent.com/u/22681977?s=80) | [Rafael Prado](https://www.linkedin.com/in/rpradosilva/)</br>[![](https://img.shields.io/badge/-Contato-5276F2)](mailto:contato@rprado.design) |
-|                                                             |
-
 ---
 
 ### Desenvolvido por [<img alt="Logo RPrado" src="https://github.com/rpradodesign/default-readme/blob/main/.github/assets/images/logo-rprado.png" width="91px" />](http://rprado.design)
