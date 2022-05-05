@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-    <img src="https://github.com/rpradodesign/default-readme/blob/main/.github/assets/images/logo-rprado.png" alt="Logo Repo" width="150">
+    <img src="https://avatars.githubusercontent.com/u/87092922" alt="Logo Repo" width="80">
     <h2>
         Nome do projeto
     </h2>
@@ -10,9 +10,9 @@
 <br>
 <div align="center">
 
-[![](https://img.shields.io/badge/-Sobre-5276F2)](#sobre-o-projeto)
-[![](https://img.shields.io/badge/-Requisitos-5276F2)](#requisitos)
-[![](https://img.shields.io/badge/-Desenvolvido-000066)](/src)
+[![](https://img.shields.io/badge/-Sobre-021826)](#sobre-o-projeto)
+[![](https://img.shields.io/badge/-Requisitos-021826)](#requisitos)
+[![](https://img.shields.io/badge/-Desenvolvido-00080D)](/src)
 
 </div>
 <br>
@@ -39,4 +39,4 @@ Para este projetos utilizaremos:
 
 ---
 
-### Desenvolvido por [<img alt="Logo RPrado" src="https://github.com/rpradodesign/default-readme/blob/main/.github/assets/images/logo-rprado.png" width="91px" />](http://rprado.design)
+[<img alt="Logo RPrado" src="https://avatars.githubusercontent.com/u/87092922" width="40" />](http://rprado.design)
