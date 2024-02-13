@@ -10,9 +10,9 @@
 <br>
 <div align="center">
 
-[![](https://img.shields.io/badge/-Sobre-021826)](#sobre-o-projeto)
-[![](https://img.shields.io/badge/-Requisitos-021826)](#requisitos)
-[![](https://img.shields.io/badge/-Desenvolvido-00080D)](/src)
+[![](https://img.shields.io/badge/-Sobre-032940)](#sobre-o-projeto)
+[![](https://img.shields.io/badge/-Requisitos-032940)](#requisitos)
+[![](https://img.shields.io/badge/-Desenvolvido-000b12)](/src)
 
 </div>
 <br>
